@@ -15,7 +15,7 @@ class Events:
     c = None
 
     def __init__(self):
-        self.__mytoken = 'CBTTFWHSGZGHOGSK75AG'
+        self.__mytoken = ''
         try:
             response = requests.get('https://www.eventbriteapi.com/v3/events/search/?venue.city=santa&token='+ self.__mytoken)
             myevents = response.json()['events']
