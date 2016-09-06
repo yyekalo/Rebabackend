@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e9aaa5a-83e6-4c09-b127-e93af33d2610" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventsDatabase.db" afterPath="$PROJECT_DIR$/EventsDatabase.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Events.py" afterPath="$PROJECT_DIR$/Events.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RebuV1.0Backend.py" afterPath="$PROJECT_DIR$/RebuV1.0Backend.py" />
-    </list>
+    <list default="true" id="6e9aaa5a-83e6-4c09-b127-e93af33d2610" name="Default" comment="" />
     <ignored path="Rebubackend.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
